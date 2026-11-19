@@ -1,0 +1,2 @@
+instructor|Bernie Empaces|bernie@cordova.edu|$2y$12$Q8NjlJMQWCF2Nvz9IWL8IetSgjewJivNrQIT9..Z.BgtPBHVkKHHu
+student|Regine Gumalal|regine@cordova.edu|$2y$12$NH.L5aYXZChoaxamZuY8qeE.QaslmmaPC8QQ0Mu3BA/ovRrfQ6Zh6
